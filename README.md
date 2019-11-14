@@ -6,20 +6,11 @@ application up and running.
 Things you may want to cover:
 
 * Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
+ruby 2.5.5
 
 * ...
 # todos-api
+サンプルWEB API
+Railsをjson形式でapiを返すだけに使用
+簡単なMCのみでviewなどは実装していない。
+routesはネスト形式にテストを書いている。
